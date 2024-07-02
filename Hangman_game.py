@@ -1,5 +1,5 @@
 import random
-free colorama import init
+from colorama import init
 
 def main():
     init()
